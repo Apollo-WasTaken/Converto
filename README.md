@@ -7,7 +7,8 @@
 A modern, elegant desktop unit and currency converter built with Python and CustomTkinter. Converto features a premium dark UI with a custom display font to handle your everyday unit conversion needs offline, and currency rates online.
 
 ![Converto Screenshot](Screenshot_default.png)
-
+![Converto Screenshot](Screenshot_Currency.png)
+![Converto Screenshot](Screenshot_invalid.png)
 ## Features
 
 - **Multi-Category Conversion** - Easily switch between 11 different categories:
