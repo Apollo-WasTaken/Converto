@@ -52,7 +52,6 @@ Converto/
 ├── Screenshot_Currency.png   # App screenshot (Currency view)
 ├── Screenshot_default.png    # App screenshot (Default view)
 ├── Screenshot_invalid.png    # App screenshot (Error handling view)
-└── .gitignore                # File containing ignored files
 ```
 
 ## Technology Stack
@@ -68,7 +67,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Built with [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
